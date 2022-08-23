@@ -1,9 +1,10 @@
 h3 {
    color: brown;
+   text-decoration-line: underline;
 }
 
 img {
-   width: 350px;
+   width: 250px;
    height: auto;
 }
 
