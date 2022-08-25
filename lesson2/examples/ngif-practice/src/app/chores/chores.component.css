@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+.motivation {
+    color: blueviolet;
+}
+
+.reward {
+    color: green;
+    text-align: center;
+}
